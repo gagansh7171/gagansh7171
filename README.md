@@ -23,6 +23,6 @@ Here are some ideas to get you started:
 ### Full stack Web Developer
 #### Currently an CSE undergrad at IIT-Roorkee and developer at <a href="https://github.com/IMGIITRoorkee">IMG IIT-Roorkee</a>.
 ![Gagan's github stats](https://github-readme-stats.vercel.app/api?username=gagansh7171&count_private=true&show_icons=true&theme=algolia) <br />
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gagansh7171&theme=dark&show_icons=true&locale=en&layout=compact&count_private=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs?username=gagansh7171&theme=algolia&show_icons=true&locale=en&layout=compact&count_private=true)
 
 📫 Connect with me on <a href="https://www.linkedin.com/in/gagan-sharma-206303/">Linkedin</a>
